@@ -1,0 +1,8 @@
+name: Backpack
+main: main.Backpacks
+version: 1.1.0
+author: red51 - modified by Tex
+team: JIW-Games
+description: "A plugin which adds a new backpack item to the game"
+license: MIT
+website: https://www.rising-world.net
